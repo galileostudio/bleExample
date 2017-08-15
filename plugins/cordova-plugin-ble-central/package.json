@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-ble-central@~1.1.3",
+        "scope": null,
+        "escapedName": "cordova-plugin-ble-central",
+        "name": "cordova-plugin-ble-central",
+        "rawSpec": "~1.1.3",
+        "spec": ">=1.1.3 <1.2.0",
+        "type": "range"
+      },
+      "/home/kaue/galileostudio/cordova/ble/heart-rate-BLE-Ionic2/node_modules"
+    ]
+  ],
+  "_from": "cordova-plugin-ble-central@>=1.1.3 <1.2.0",
+  "_id": "cordova-plugin-ble-central@1.1.4",
+  "_inCache": true,
+  "_location": "/cordova-plugin-ble-central",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-ble-central-1.1.4.tgz_1483583930290_0.003615390043705702"
+  },
+  "_npmUser": {
+    "name": "don",
+    "email": "don.coleman@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-ble-central@~1.1.3",
+    "scope": null,
+    "escapedName": "cordova-plugin-ble-central",
+    "name": "cordova-plugin-ble-central",
+    "rawSpec": "~1.1.3",
+    "spec": ">=1.1.3 <1.2.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ble-central/-/cordova-plugin-ble-central-1.1.4.tgz",
+  "_shasum": "ad90369a795ad700a1b9fdd66e19e7ce44a789c3",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ble-central@~1.1.3",
+  "_where": "/home/kaue/galileostudio/cordova/ble/heart-rate-BLE-Ionic2/node_modules",
+  "author": {
+    "name": "Don Coleman",
+    "email": "don.coleman@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/don/cordova-plugin-ble-central/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ble-central",
+    "platforms": [
+      "ios",
+      "android",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Bluetooth Low Energy (BLE) Central Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ad90369a795ad700a1b9fdd66e19e7ce44a789c3",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ble-central/-/cordova-plugin-ble-central-1.1.4.tgz"
+  },
+  "gitHead": "1fd8a1ced1c60119a2c0c5d0963cb7f865dce59f",
+  "homepage": "https://github.com/don/cordova-plugin-ble-central#readme",
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "ble",
+    "bluetoothle",
+    "bluetooth le",
+    "low energy",
+    "smart",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "don",
+      "email": "don.coleman@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-ble-central",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/don/cordova-plugin-ble-central.git"
+  },
+  "scripts": {},
+  "version": "1.1.4"
+}
