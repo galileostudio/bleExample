@@ -1,2 +1,2 @@
 # bleExample
-BLE ionic application to ready data from Heart rate sensor
+BLE ionic application to read data from Heart rate sensor
